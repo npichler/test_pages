@@ -1,4 +1,4 @@
-remote_theme: benbalter/retlab
+remote_theme: https://github.com/CloudCannon/edition-jekyll-template
 title: MontiCore
 description: This is the github page of the MontiCore project
 logo: mc-logo-new.png
