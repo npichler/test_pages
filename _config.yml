@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: benbalter/retlab
 title: MontiCore
 description: This is the github page of the MontiCore project
 logo: mc-logo-new.png
