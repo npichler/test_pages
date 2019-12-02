@@ -28,5 +28,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 [a relative link](doku.md)
 
 
-[test](../test/test.md)
+[test](/test/test.md)
 
