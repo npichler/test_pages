@@ -1,4 +1,4 @@
-remote_theme: jekyll-paginate
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 title: MontiCore
 description: This is the github page of the MontiCore project
 logo: mc-logo-new.png
