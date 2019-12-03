@@ -1,5 +1,3 @@
-remote_theme: chrisbobbe/jekyll-theme-prologue
 title: MontiCore
 description: This is the github page of the MontiCore project
-
 theme: jekyll-theme-minimal
